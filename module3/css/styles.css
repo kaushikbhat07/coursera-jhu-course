@@ -45,7 +45,7 @@ h2 {
     visibility: hidden;
 }
 
-@media screen and (max-width: 912px) {
+@media screen and (max-width: 768px) {
     .navbar-nav {
         visibility: unset;
     }
