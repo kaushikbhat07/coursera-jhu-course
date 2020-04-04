@@ -41,12 +41,12 @@ h2 {
     font-size: 20px;
 }
 
-.navbar-nav {
+.navbar-nav, .navbar-toggler {
     visibility: hidden;
 }
 
 @media screen and (max-width: 768px) {
-    .navbar-nav {
+    .navbar-nav, .navbar-toggler {
         visibility: unset;
     }
 }
